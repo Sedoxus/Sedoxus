@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sedoxus
-- 👀 I’m interested in coding together
-- 🌱 I’m currently learning C++.HTML,CSS,JS
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me dont know
+- 👋 Hi, I’m @Sedoxus, a pretty much beginner on programming and on other similar stuffs.
+- 👀 I’m interested in learning and working together with others!
+- 🌱 I’m currently learning C++, HTML, CSS, JS, Lua, Python
+- 💞️ I’m free to collaborate on anything!
+- 📫 You can reach me from my instagram @sedoxus!
 
 <!---
 Sedoxus/Sedoxus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
